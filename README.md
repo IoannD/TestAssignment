@@ -41,6 +41,6 @@ data retrieval with filtering.
    ```bash
    docker compose up
 3. **Access the API and Swagger Documentation:**
-    - API: Accessible at https://localhost:5556/
-    - Swagger Documentation: Available at https://localhost:5556/swagger
+    - API: Accessible at http://localhost:5555/
+    - Swagger Documentation: Available at http://localhost:5555/swagger
 
